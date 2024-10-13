@@ -49,6 +49,10 @@
         display: none;
     }
 
+    .menu-lateral{
+        width: 228px;
+    }
+
     .secao-horizontal .cartao__imagem {
         height: 73px;
     }
@@ -73,6 +77,10 @@
     .navbar,
     .cabecalho__logo {
         display: none;
+    }
+
+    .menu-lateral{
+        width: 228px;
     }
 
 }
