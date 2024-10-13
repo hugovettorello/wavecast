@@ -19,6 +19,11 @@
     }   
 
 
+    .secao-horizontal .cartao{
+        column-gap: .5rem;
+        align-self: center;
+    }
+
     .cabecalho {
         justify-self: center;
     }
